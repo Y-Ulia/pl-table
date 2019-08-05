@@ -1,0 +1,47 @@
+{
+  "__npminstall_done": "Fri Apr 26 2019 16:21:42 GMT+0800 (中国标准时间)",
+  "_from": "pl-table@^2.1.8",
+  "_id": "pl-table@2.1.8",
+  "_inBundle": false,
+  "_integrity": "sha1-K8GxG1p/3CG98rlmCnUoP4CQwIM=",
+  "_location": "/pl-table",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "pl-table@^2.1.8",
+    "name": "pl-table",
+    "escapedName": "pl-table",
+    "rawSpec": "^2.1.8",
+    "saveSpec": null,
+    "fetchSpec": "^2.1.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/pl-table/download/pl-table-2.1.8.tgz",
+  "_shasum": "2bc1b11b5a7fdc21bdf2b9660a75283f8090c083",
+  "_spec": "pl-table@^2.1.8",
+  "_where": "E:\\workingFile\\web-project\\pc-erp",
+  "author": {
+    "name": "penglei"
+  },
+  "bugs": {
+    "url": "https://github.com/penglei1996/pl-table/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "> 一个基���element的表格",
+  "homepage": "https://github.com/penglei1996/pl-table#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "pl-table",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penglei1996/pl-table.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.2.0"
+}
