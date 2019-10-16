@@ -36,9 +36,9 @@ ElTableBody.directives = {
 
 const oldDataComputed = ElTableBody.computed.data
 ElTableBody.computed.data = function () {
-  const { table } = this
+  const { table, store } = this
   if (table.useVirtual) {
-    return table.data.slice(table.start, table.end)
+    return store.states.data.slice(table.start, table.end)
   } else {
     return oldDataComputed.call(this)
   }
